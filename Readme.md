@@ -14,3 +14,12 @@
 	> git commit -m "first commit"
 - a commit-ok listázása
 	> git log
+## helyi repo összekapcsolása a távoli repo-val
+
+- távoli repo létrehozása
+- a helyi repo összekapcsolása a távolival
+	> git remote add origin https://token@github.com/hanakkristof/grid.git
+- legelső alkalommal a push:
+	> git push -u origin master
+- a továbbiakban:
+	> git push
