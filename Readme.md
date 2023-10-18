@@ -6,7 +6,7 @@
 	> git init
 - felhasználónév ellenőrzése
  	> git config user.name
-- felhasználónév ellenőrzése
+- email ellenőrzése
  	> git config user.email
 - ellenőrzés
 	> git status
