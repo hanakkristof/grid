@@ -4,8 +4,9 @@
 
 - helyi repo inicializálása
 	> git init
-- felhasználónév és e-mail cím ellenőrcése
+- felhasználónév ellenőrzése
  	> git config user.name
+- felhasználónév ellenőrzése
  	> git config user.email
 - ellenőrzés
 	> git status
